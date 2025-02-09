@@ -1,1 +1,2 @@
-# Hate_Speech_Detection
+# Negative Speech Detection using LSTM (Natural Language Processing)
+
